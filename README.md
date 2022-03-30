@@ -1,0 +1,2 @@
+<h1>Projeto de estudos</h1>
+<p>esse é um projeto feito para o estudo de PySide6 baseado na playlist de aulas <a src="https://www.youtube.com/playlist?list=PLfQ7GQSrl0_ung_Wt0PpgOICqA8k6dr3i"></a>https://www.youtube.com/playlist?list=PLfQ7GQSrl0_ung_Wt0PpgOICqA8k6dr3i</p>
